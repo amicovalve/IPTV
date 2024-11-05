@@ -41,23 +41,47 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png"  group-title="央视",CCTV-17 农业农村
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png"  group-title="卫视",东方卫视
+#EXTINF:-1 group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png"  group-title="地方卫视",东方卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-#EXTINF:-1 group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png"  group-title="卫视",湖南卫视
+#EXTINF:-1 group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png"  group-title="湖南频道",湖南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-#EXTINF:-1 group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png"  group-title="卫视",北京卫视
+#EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://live.fanmingming.com/tv/湖南都市.png" group-title="湖南频道",湖南都市
+http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
+#EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://live.fanmingming.com/tv/湖南国际.png" group-title="湖南频道",湖南国际
+http://222.241.154.37:9901/tsfile/live/23024_1.m3u8
+#EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://live.fanmingming.com/tv/湖南经视.png" group-title="湖南频道",湖南经视
+http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
+#EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://live.fanmingming.com/tv/湖南娱乐.png" group-title="湖南频道",湖南娱乐
+http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
+#EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.com/tv/湖南电视剧.png" group-title="湖南频道",湖南视剧
+http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
+#EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://live.fanmingming.com/tv/湖南电影.png" group-title="湖南频道",湖南电影
+http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hunan/Hunan9.png" group-title="湖南频道",金鹰纪实
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hunan/Hunan10.png" group-title="湖南频道",金鹰卡通
+http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
+#EXTINF:-1 tvg-id="Cpd" tvg-name="茶频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/chapd.png" group-title="湖南频道",茶频道
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/1.m3u8
+#EXTINF:-1 tvg-id="Klcd" tvg-name="快乐垂钓" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/klcd.png" group-title="湖南频道",快乐垂钓
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8
+#EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://live.fanmingming.com/tv/湖南爱晚.png" group-title="湖南频道",湖南爱晚
+http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
+#EXTINF:-1 tvg-id="湖南教育" tvg-name="湖南教育台" tvg-logo="https://live.fanmingming.com/tv/湖南教育.png" group-title="湖南频道",湖南教育
+http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
+#EXTINF:-1 group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png"  group-title="地方卫视",北京卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png"  group-title="卫视",吉林卫视
+#EXTINF:-1 group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png"  group-title="地方卫视",吉林卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-#EXTINF:-1 group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png"  group-title="卫视",辽宁卫视
+#EXTINF:-1 group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png"  group-title="地方卫视",辽宁卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF:-1 group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png"  group-title="卫视",浙江卫视
+#EXTINF:-1 group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png"  group-title="地方卫视",浙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-#EXTINF:-1 group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/BTV纪实.png"  group-title="卫视",BTV纪实
+#EXTINF:-1 group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/BTV纪实.png"  group-title="地方卫视",BTV纪实
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-#EXTINF:-1 group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/CETV1.png"  group-title="卫视",CETV-1
+#EXTINF:-1 group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/CETV1.png"  group-title="地方卫视",CETV-1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1 group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/CETV2.png"  group-title="卫视",CETV-2
+#EXTINF:-1 group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/CETV2.png"  group-title="地方卫视",CETV-2
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-#EXTINF:-1 group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/CETV4.png"  group-title="卫视",CETV-4
+#EXTINF:-1 group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/CETV4.png"  group-title="地方卫视",CETV-4
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
