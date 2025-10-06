@@ -1,469 +1,89 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台",凤凰中文
-http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳台",凤凰资讯
-http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
-http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png",CCTV1
-http://112.74.115.68:35455/gaoma/cctv1.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.zbds.top/logo/CCTV2.png",CCTV2
-http://111.170.172.113:35455/gaoma/cctv2.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.zbds.top/logo/CCTV3.png",CCTV3
-http://lt.hxtre.com:35455/gaoma/cctv3.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV4.png",CCTV4
-http://161888.xyz:35455/gaoma/cctv4k.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV5.png",CCTV5
-http://161888.xyz:35455/gaoma/cctv5.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.zbds.top/logo/CCTV5+.png",CCTV5+
-http://lt.hxtre.com:35455/gaoma/cctv5p.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png",CCTV6
-http://112.74.115.68:35455/gaoma/cctv6.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.zbds.top/logo/CCTV7.png",CCTV7
-http://111.170.172.113:35455/gaoma/cctv7.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.zbds.top/logo/CCTV8.png",CCTV8
-http://231114.xyz:35455/gaoma/cctv8.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.zbds.top/logo/CCTV9.png",CCTV9
-http://www.52iptv.vip:35455/gaoma/cctv9.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png",CCTV10
-http://112.74.115.68:35455/gaoma/cctv10.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png",CCTV11
-http://112.74.115.68:35455/gaoma/cctv11.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png",CCTV12
-http://112.74.115.68:35455/gaoma/cctv12.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png",CCTV13
-http://112.74.115.68:35455/gaoma/cctv13.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png",CCTV14
-http://112.74.115.68:35455/gaoma/cctv14.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png",CCTV15
-http://112.74.115.68:35455/gaoma/cctv15.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png",CCTV16
-http://112.74.115.68:35455/gaoma/cctv16.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png",CCTV17
-http://112.74.115.68:35455/gaoma/cctv17.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.zbds.top/logo/CCTV音乐.png",CCTV音乐
-http://123.138.22.30:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.zbds.top/logo/CCTV世界地理.png",CCTV世界地理
-http://111.61.236.247:9081/hls/62/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.zbds.top/logo/CCTV女性时尚.png",CCTV女性时尚
-http://120.76.248.139/live/bfgd/4200000176.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.zbds.top/logo/CCTV怀旧剧场.png",CCTV怀旧剧场
-http://120.76.248.139/live/bfgd/4200000224.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.zbds.top/logo/CCTV第一剧场.png",CCTV第一剧场
-http://jf.jxx2023.work:40446/tsfile/live/1049_1.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.zbds.top/logo/CCTV风云剧场.png",CCTV风云剧场
-http://jf.jxx2023.work:40446/tsfile/live/1150_1.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.zbds.top/logo/CCTV风云足球.png",CCTV风云足球
-http://111.61.236.247:9081/hls/58/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.zbds.top/logo/CCTV风云音乐.png",CCTV风云音乐
-http://nas.hssvm.com:8888/udp/225.1.1.192:5002
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.zbds.top/logo/CCTV发现之旅.png",CCTV发现之旅
-https://www.freetv.top/migu/624878970.m3u8?migutoken=1fb695563c621535fa91c6ce464f6619a2f8eb7af5c0876841c0dbd8f3063c14ba77e8028cb91f1b0dc0662e4ae7ac50ef325c26ba8a61b56fe7e5546acd6da429931c15a5d4bcb10ac2dd9831
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.zbds.top/logo/CCTV老故事.png",CCTV老故事
-https://www.freetv.top/migu/884121956.m3u8?migutoken=550b8ac2d06ef43bd80e29582185fe693959996048d7b572ce1659fe9376b6101cf9002c0034445668d6e11645eab13a11978ca20adae4f4248041add5d27f4d8e71fd2a4e44fd398c8fb3614b
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.zbds.top/logo/CCTV中学生.png",CCTV中学生
-https://www.freetv.top/migu/708869532.m3u8?migutoken=6c81e13830a98cbed803f493e618e4e89c3621b2efaaad23df06f39f09d8bc8f989e3c74636452d64f5fbbb22e8a8f415885c938478dcf670f80e2e8b7d311443e18a58b907caf453ad5b576cd
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.zbds.top/logo/湖南卫视.png",湖南卫视
-http://58.57.40.22:9901/tsfile/live/1028_1.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.zbds.top/logo/浙江卫视.png",浙江卫视
-http://58.57.40.22:9901/tsfile/live/1029_1.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.zbds.top/logo/凤凰卫视.png",凤凰卫视
-http://qjrhc.jydjd.top:2911/udp/224.1.100.3:11111
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.zbds.top/logo/香港卫视.png",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png",CHC动作电影
-http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png",CHC家庭影院
-http://113.195.172.192:808/hls/113/index.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://live.zbds.top/logo/CHC影迷电影.png",CHC影迷电影
-http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://live.zbds.top/logo/黑莓电影.png",黑莓电影
-https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://live.zbds.top/logo/周星驰.png",周星驰
-http://zby.xjqxz.top/live12/live.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/成龙.png",成龙
-http://zby.xjqxz.top/cldy/live.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://live.zbds.top/logo/灾难片.png",灾难片
-https://live.metshop.top/huya/11602075
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/AMCMovies.png",AMC电影
-http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1 group-title="地方频道" tvg-logo="https://ghproxy.kilvn.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/全纪实.png",全纪实
-http://180.213.174.225:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="纪录频道" tvg-logo="https://live.zbds.top/logo/求索动物.png",求索动物
-http://231114.xyz:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
-#EXTINF:-1 group-title="纪录频道" tvg-logo="https://live.zbds.top/logo/求索纪录.png",求索纪录
-http://231114.xyz:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
-#EXTINF:-1 group-title="纪录频道" tvg-logo="https://live.zbds.top/logo/求索科学.png",求索科学
-http://lt.hxtre.com:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
-#EXTINF:-1 group-title="纪录频道" tvg-logo="https://live.zbds.top/logo/求索生活.png",求索生活
-http://lt.hxtre.com:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
-#EXTINF:-1 group-title="纪录频道" tvg-logo="https://live.zbds.top/logo/Discovery.png",Discovery
-http://ott.watch/stream/E9LDH2ZCN7/177.m3u8
-#EXTINF:-1 group-title="纪录频道" tvg-logo="https://live.zbds.top/logo/航拍中国第一季.png",航拍中国第一季
-http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8
-#EXTINF:-1 group-title="纪录频道" tvg-logo="https://live.zbds.top/logo/航拍中国第二季.png",航拍中国第二季
-http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
-#EXTINF:-1 group-title="体育频道" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/睛彩篮球.png",睛彩篮球
-http://www.52iptv.vip:35455/itv/2000000003000000065.m3u8?cdn=hnbblive
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://ghproxy.kilvn.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC高清电影.png",CHC电影
-http://220.249.114.102:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png",刘德华电影
-http://1.94.31.214:35455/huya/11342424
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://live.zbds.top/logo/变形金刚.png",变形金刚
-https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/3001/946/427/3001946427/media/3001946427_5081378899_56.mp4
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png",变形金刚合集
-http://1.94.31.214:35455/yy/1382736803
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://live.zbds.top/logo/哈利波特中配.png",哈利波特中配
-http://wab201.win:35455/yy/1382745105
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://live.zbds.top/logo/哈利波特全集.png",哈利波特全集
-http://home.wwang.pw:35455/yy/1382745105
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://live.zbds.top/logo/哈利波特凤凰会的密令.png",哈利波特凤凰会的密令
-https://v1.fentvoss.com/sdv1/202308/19/kL6HzXQ7Xi2/video/index.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://live.zbds.top/logo/哈利波特死神的圣物.png",哈利波特死神的圣物
-https://ikcdn01.ikzybf.com/20221105/DABRajDL/index.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://live.zbds.top/logo/哈利波特火杯的考验.png",哈利波特火杯的考验
-https://ikcdn01.ikzybf.com/20221210/qYaADoTA/index.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://live.zbds.top/logo/无间道1.png",无间道1
-https://vip.ffzy-play6.com/20221017/13_ddfc1740/index.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://live.zbds.top/logo/无间道2.png",无间道2
-https://alimov2.a.kwimgs.com/upic/2021/02/09/10/BMjAyMTAyMDkxMDQ0NThfNDAzMDAxOTlfNDM4NTkyODc0MjhfMF8z_b_Bce206fcc2f84121a4d887259d7c5100b.mp4
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://live.zbds.top/logo/无间道3终极无间.png",无间道3终极无间
-https://vip.ffzy-play2.com/20221127/1567_f1965b4b/index.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://live.zbds.top/logo/星际穿越.png",星际穿越
-https://api.heimuer.app/play/f9b471ddd1ee425bb3c64a24f82561be.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png",末日电影合集
-http://1.94.31.214:35455/yy/1354889019
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南电影.png",湖南电影
-http://116.128.242.83:9901/tsfile/live/1009_1.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潇湘电影.png",潇湘电影
-http://116.128.242.83:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://live.zbds.top/logo/魔戒三部曲王者再临.png",魔戒三部曲王者再临
-https://api.heimuer.app/play/bd885bde48d742068df66e382a8db7a7.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://live.zbds.top/logo/魔戒二部曲双城奇谋.png",魔戒二部曲双城奇谋
-https://vip.ffzy-play7.com/20221127/7286_672b6ffa/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://live.zbds.top/logo/魔戒首部曲魔戒现身.png",魔戒首部曲魔戒现身
-https://api.heimuer.app/play/d10849d4be514bfeb5de7b6ff8bdfb5a.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png",黄渤电影
-http://1.94.31.214:35455/huya/11352876
-#EXTINF:-1 group-title="地方频道" tvg-logo="https://live.zbds.top/logo/钱江都市.png",浙江钱江都市
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 group-title="地方频道" tvg-logo="https://live.zbds.top/logo/湖南娱乐.png",湖南娱乐
-http://116.128.242.83:9901/tsfile/live/0125_1.m3u8
-#EXTINF:-1 group-title="地方频道" tvg-logo="https://live.zbds.top/logo/湖南电视剧.png",湖南电视剧
-http://116.128.242.83:9901/tsfile/live/0120_1.m3u8
-#EXTINF:-1 group-title="地方频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南经视.png",湖南经视
-http://110.53.218.182:9902/tsfile/live/1004_1.m3u8
-#EXTINF:-1 group-title="地方频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南都市.png",湖南都市
-http://110.53.218.182:9902/tsfile/live/0127_1.m3u8
-#EXTINF:-1 group-title="纪录频道" tvg-logo="https://live.zbds.top/logo/中国村庄.png",中国村庄
-http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/93fc12dbf14241c18c23da104fbade23/4000.m3u8
-#EXTINF:-1 group-title="纪录频道" tvg-logo="https://live.zbds.top/logo/乘着火车看中国.png",乘着火车看中国
-http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/2b0f397ed9d948eb9fac38d73cde241b/4000.m3u8
-#EXTINF:-1 group-title="纪录频道" tvg-logo="https://live.zbds.top/logo/人与自然.png",人与自然
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
-#EXTINF:-1 group-title="纪录频道" tvg-logo="https://live.zbds.top/logo/动物星球.png",动物星球
-http://61.221.215.25:8800/hls/57/index.m3u8
-#EXTINF:-1 group-title="纪录频道" tvg-logo="https://live.zbds.top/logo/地理中国.png",地理中国
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8
-#EXTINF:-1 group-title="纪录频道" tvg-logo="https://live.zbds.top/logo/梵净山.png",梵净山
-http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/b9571df1181c4422a83901e827519fe6/4000.m3u8
-#EXTINF:-1 group-title="纪录频道" tvg-logo="https://live.zbds.top/logo/生命脉动.png",生命脉动
-http://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/c481b5826ffc4e99a92e01704c862dbc/850.m3u8
-#EXTINF:-1 group-title="纪录频道" tvg-logo="https://live.zbds.top/logo/美丽中国自然.png",美丽中国自然
-http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/51d937a0201f4c78a5878b4b37089f3b/4000.m3u8
-#EXTINF:-1 group-title="纪录频道" tvg-logo="https://live.zbds.top/logo/自然传奇.png",自然传奇
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
-#EXTINF:-1 group-title="音乐频道" tvg-logo="https://live.zbds.top/logo/经典老歌伤感女声篇.png",经典老歌伤感女声篇
-https://vd3.bdstatic.com/mda-ig8mrb0k4jjc5ydt/sc/mda-ig8mrb0k4jjc5ydt.mp4
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",1983年春晚
-http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",1984年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",1985年春晚
-http://txmov2.a.kwimgs.com/bs3/video-hls/5227271857652377954_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",1986年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",1987年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",1988年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",1989年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",1992年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",1993年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",1994年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",1996年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5202783562064785590_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",1997年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",1998年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",1999年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",2000年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",2001年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",2002年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",2003年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5232338436280256836_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",2004年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",2005年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",2006年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",2007年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",2008年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",2009年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5214042558858339330_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",2010年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5210664862006975841_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",2011年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",2012年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",2013年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",2014年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",2015年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",2016年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",2017年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",2018年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",2019年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",2020年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",2021年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",2022年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",2023年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
-#EXTINF:-1 group-title="春晚频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png",2024年春晚
-https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-#EXTINF:-1 group-title="直播中国" tvg-logo="https://live.zbds.top/logo/浙江乌镇全景.png",浙江乌镇全景
-https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="直播中国" tvg-logo="https://live.zbds.top/logo/浙江普陀山.png",浙江普陀山
-https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="直播中国" tvg-logo="https://live.zbds.top/logo/浙江舟山东极岛.png",浙江舟山东极岛
-https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
-#EXTINF:-1 group-title="直播中国" tvg-logo="https://live.zbds.top/logo/湖南张家界天门山天空步道.png",湖南张家界天门山天空步道
-https://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive_djy03_2/index.m3u8
-#EXTINF:-1 group-title="直播中国" tvg-logo="https://live.zbds.top/logo/湖南张家界天门山西线玻璃栈道.png",湖南张家界天门山西线玻璃栈道
-https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
-#EXTINF:-1 group-title="直播中国" tvg-logo="https://live.zbds.top/logo/湖南张家界宝峰湖.png",湖南张家界宝峰湖
-https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
-#EXTINF:-1 group-title="直播中国" tvg-logo="https://live.zbds.top/logo/湖南张家界将军列队.png",湖南张家界将军列队
-https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
-#EXTINF:-1 group-title="直播中国" tvg-logo="https://live.zbds.top/logo/湖南张家界御笔峰.png",湖南张家界御笔峰
-https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
-#EXTINF:-1 group-title="直播中国" tvg-logo="https://live.zbds.top/logo/湖南张家界水绕四门.png",湖南张家界水绕四门
-https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
-#EXTINF:-1 group-title="直播中国" tvg-logo="https://live.zbds.top/logo/狮子山鸟瞰丽江古城.png",狮子山鸟瞰丽江古城
-https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
-#EXTINF:-1 group-title="直播中国" tvg-logo="https://live.zbds.top/logo/直播中国精编直播.png",直播中国精编直播
-https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
-#EXTINF:-1 group-title="直播中国" tvg-logo="https://live.zbds.top/logo/福建武夷山玉女峰.png",福建武夷山玉女峰
-https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/1983年.png",1983年
-https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/1984年.png",1984年
-https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/1985年.png",1985年
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/1986年.png",1986年
-https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/1987年.png",1987年
-https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/1988年.png",1988年
-https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/1989年.png",1989年
-http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/1991年.png",1991年
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/1993年.png",1993年
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/1994年.png",1994年
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/1995年.png",1995年
-https://txmov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/1996年.png",1996年
-https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/1997年.png",1997年
-https://txmov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/1999年.png",1999年
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2000年.png",2000年
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2001年.png",2001年
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2002年.png",2002年
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2003年.png",2003年
-https://txmov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2004年.png",2004年
-https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2005年.png",2005年
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2006年.png",2006年
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2007年.png",2007年
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2008年.png",2008年
-https://txmov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2009年.png",2009年
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2010年.png",2010年
-https://txmov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2011年.png",2011年
-https://txmov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2013年.png",2013年
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2014年.png",2014年
-https://txmov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2015年.png",2015年
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2017年.png",2017年
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2018年.png",2018年
-https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2019年.png",2019年
-https://txmov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2020年.png",2020年
-http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/﻿cctv1.png",cctv1
-http://220.249.114.102:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/cctv10.png",cctv10
-http://220.249.114.102:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/cctv11.png",cctv11
-http://220.249.114.102:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/cctv12.png",cctv12
-http://220.249.114.102:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/cctv13.png",cctv13
-http://220.249.114.102:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/cctv14.png",cctv14
-http://220.249.114.102:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/cctv15.png",cctv15
-http://220.249.114.102:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/cctv2.png",cctv2
-http://220.249.114.102:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/cctv3.png",cctv3
-http://220.249.114.102:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/cctv4.png",cctv4
-http://220.249.114.102:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/cctv5.png",cctv5
-http://220.249.114.102:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/cctv5+.png",cctv5+
-http://220.249.114.102:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/cctv6.png",cctv6
-http://220.249.114.102:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/cctv7.png",cctv7
-http://220.249.114.102:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/cctv8.png",cctv8
-http://220.249.114.102:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/cctv9.png",cctv9
-http://220.249.114.102:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北武汉黄鹤楼.png",湖北武汉黄鹤楼
-https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南凤凰古城东关门.png",湖南凤凰古城东关门
-https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南凤凰古城南华山.png",湖南凤凰古城南华山
-https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南天门山西线玻璃栈道.png",湖南天门山西线玻璃栈道
-https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南宝峰湖.png",湖南宝峰湖
-https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南张家界迷魂台.png",湖南张家界迷魂台
-https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I和第十四集.png",铁齿铜牙纪晓岚I和第十四集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5199405834544758981_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第一集.png",铁齿铜牙纪晓岚I第一集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5189835685412341493_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第七集.png",铁齿铜牙纪晓岚I第七集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5205035333929238923_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第三十一集.png",铁齿铜牙纪晓岚I第三十一集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5229805135145666354_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第三十七集.png",铁齿铜牙纪晓岚I第三十七集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5226708909787936610_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第三十三集.png",铁齿铜牙纪晓岚I第三十三集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5200813211459409876_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第三十九集.png",铁齿铜牙纪晓岚I第三十九集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5224457108637573625_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第三十二集.png",铁齿铜牙纪晓岚I第三十二集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5226708907786597436_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第三十五集.png",铁齿铜牙纪晓岚I第三十五集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5214324012111359331_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第三十八集.png",铁齿铜牙纪晓岚I第三十八集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5244160358049310930_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第三十六集.png",铁齿铜牙纪晓岚I第三十六集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5201657637463988722_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第三十四集.png",铁齿铜牙纪晓岚I第三十四集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5212916635485360589_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第三十集.png",铁齿铜牙纪晓岚I第三十集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5239938232785864559_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第三集.png",铁齿铜牙纪晓岚I第三集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5239375284210688597_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第九集.png",铁齿铜牙纪晓岚I第九集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5246975105769336824_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第二十一集.png",铁齿铜牙纪晓岚I第二十一集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5204753859831730416_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第二十七集.png",铁齿铜牙纪晓岚I第二十七集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5189835688572881329_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第二十三集.png",铁齿铜牙纪晓岚I第二十三集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5192368963062536528_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第二十九集.png",铁齿铜牙纪晓岚I第二十九集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5215731384946903562_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第二十二集.png",铁齿铜牙纪晓岚I第二十二集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5231212507018901825_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第二十五集.png",铁齿铜牙纪晓岚I第二十五集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5234590207910516390_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第二十八集.png",铁齿铜牙纪晓岚I第二十八集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5207287136691571086_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第二十六集.png",铁齿铜牙纪晓岚I第二十六集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5201094686875682859_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第二十四集.png",铁齿铜牙纪晓岚I第二十四集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5201094687267977284_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第二十集.png",铁齿铜牙纪晓岚I第二十集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5212916635971219079_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第二集.png",铁齿铜牙纪晓岚I第二集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5201376159691089640_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第五集.png",铁齿铜牙纪晓岚I第五集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5223331208477788648_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第八集.png",铁齿铜牙纪晓岚I第八集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5204753861695148760_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第六集.png",铁齿铜牙纪晓岚I第六集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5241064134569936292_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第十一集.png",铁齿铜牙纪晓岚I第十一集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5192931913725958598_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第十七集.png",铁齿铜牙纪晓岚I第十七集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5188146839016561493_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第十三集.png",铁齿铜牙纪晓岚I第十三集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5246130680974234085_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第十九集.png",铁齿铜牙纪晓岚I第十九集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5193494862341579373_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第十二集.png",铁齿铜牙纪晓岚I第十二集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5209820410839986526_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第十五集.png",铁齿铜牙纪晓岚I第十五集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5218827610233741606_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第十八集.png",铁齿铜牙纪晓岚I第十八集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5227834807765583966_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第十六集.png",铁齿铜牙纪晓岚I第十六集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5225301535927917986_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第十集.png",铁齿铜牙纪晓岚I第十集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5256545257134268388_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第四十集.png",铁齿铜牙纪晓岚I第四十集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5257671154675984197_hlshd15.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I第四集.png",铁齿铜牙纪晓岚I第四集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806455146697_hlshd15.m3u8
+#EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",晴彩广场舞「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",晴彩少年「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",晴彩竞技「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",晴彩篮球「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟜𝕂-𝟙「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟜𝕂-𝟚「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟜「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟝「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟞「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟟「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟠「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟡「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟘「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟙「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟚「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟛「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟜「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟝「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟞「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟟「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟠「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟡「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟘「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟙「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟚「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟛「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟜「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟝「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟞「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟟「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000017678/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟠「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟡「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟘「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟙「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟚「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟛「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟜「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟝「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011519/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟞「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011520/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟟「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟠「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
